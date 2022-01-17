@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "bbb22",
-    "slug": "bbb22",
+    "name": "BBB 22 Community",
+    "slug": "bbb-22-community",
     "version": "1.0.0",
+    "icon": "./images/logo.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/misterioso013/bbb22"
   },
   "name": "bbb22"
 }
